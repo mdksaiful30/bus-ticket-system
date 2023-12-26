@@ -1,6 +1,6 @@
 # Tiki Online Ticketing System
 
-Welcome to Tiki Online Ticketing System! This Laravel project allows you to manage and sell bus tickets online for a round-trip journey from Dhaka to Cox's Bazaar, with stops in Dhaka, Comilla, Chittagong, and Cox's Bazaar.
+Welcome to Online Bus Ticketing System! This Laravel project allows you to manage and sell bus tickets online for a round-trip journey from Dhaka to Cox's Bazaar, with stops in Dhaka, Comilla, Chittagong, and Cox's Bazaar.
 
 ## Features
 
@@ -40,8 +40,8 @@ The project follows the Model-View-Controller (MVC) architectural pattern to ens
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/seo-asif/ticket-Booking-System
-   cd tiki-online-ticketing
+   git clone https://github.com/mdksaiful30/bus-ticket-system
+   cd bus-ticket-system
    ```
 
 2. **Install Dependencies:**
